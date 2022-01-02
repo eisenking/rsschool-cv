@@ -1,9 +1,9 @@
 # Vitaly Degtyarev CV for RSSchool 
 
-<img src="https://i.ibb.co/p1jCCmn/cv.jpg" alt="my photo" width="250" height="250">
+<img src="https://i.ibb.co/p1jCCmn/cv.jpg" alt="my photo" width="300" height="300">
 
 ## About me
-Vitaly 28 y/o, from Moscow
+Vitaly 28 y/o, from Moscow\
 I'm here to learn new, improve myself and become a developer
 ## Skills
 * HTML5/CSS Basics
