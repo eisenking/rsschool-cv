@@ -1,6 +1,6 @@
 # Vitaly Degtyarev CV  
 
-<img src="https://i.ibb.co/p1jCCmn/cv.jpg" alt="my photo" width="220" height="300">
+<img src="https://i.ibb.co/p1jCCmn/cv.jpg" alt="my photo" width="235" height="300">
 
 ## About me
 
