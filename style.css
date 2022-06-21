@@ -127,14 +127,17 @@ a {
     display: flex;
     flex-wrap: wrap;
 }
-.main__sections:hover span {
+.main__sections__text {
+    text-align: center;
+}
+.main__sections span {
     font-weight: bold;
 }
 .section 
 {
     width: 50%;
 }
-.section:hover h2{
+.section h2{
     text-decoration: underline;
 }
 @media (max-width: 768px) 
